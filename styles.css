@@ -743,3 +743,10 @@ body.dark-theme{
 .dark-theme .l-header{
   background-color: var(--second-color);
 }
+.dark-theme .nav__logo,
+.dark-theme .nav__link,
+.dark-theme .change-theme,
+.dark-theme .footer__title,
+.dark-theme .footer__icon,
+.dark-theme .footer__copy{
+  color : var(--first-color)}
